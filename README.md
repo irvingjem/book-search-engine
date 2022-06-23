@@ -31,6 +31,7 @@ This a project was built using the MERN Stack!<br>
 * Heroku
 
 ## Demo
+![Example of savedbooks](./client/src/assets/imgs/example-page.jpg)
 https://book-searching-application.herokuapp.com/ - Link to live application on Heroku
 ## Author 
 Me :)
