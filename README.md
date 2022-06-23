@@ -28,9 +28,10 @@ This a project was built using the MERN Stack!<br>
 * MongoDB
 * javaScript
 * GraphQL
+* Heroku
 
 ## Demo
-
+https://book-searching-application.herokuapp.com/ - Link to live application on Heroku
 ## Author 
 Me :)
 
